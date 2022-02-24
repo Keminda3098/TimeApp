@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CANVAS_MODAL#CLOSED_RELAY_fbe3de3652310110f5ac612e370cd46b</event_name>
+        <interfaces/>
+        <label>Modal closed Relay (Update records (layout tweak))</label>
+        <props>[{"name":"modalInstanceId","fieldType":"string","interfaceApiName":null,"label":"Modal instance id"}]</props>
+        <required_translations>[{"message":"Modal instance id","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:32</sys_created_on>
+        <sys_id>73e3de3622310110763b14351cfd9262</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modal closed Relay (Update records (layout tweak))</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_ux_event_73e3de3622310110763b14351cfd9262</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:32</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=73e3de3622310110763b14351cfd9262"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Dashboard Button">f7e3de3655310110f3ef5aee4b0a83ba</element>
+        <group/>
+        <role display_value="x_160096_time_app.manager" name="x_160096_time_app.manager">ffe3de363e310110f1dfdee715ecfec3</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:38</sys_created_on>
+        <sys_id>37e3de360c31011053e3a69cbdc5725b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_37e3de360c31011053e3a69cbdc5725b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:38</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>

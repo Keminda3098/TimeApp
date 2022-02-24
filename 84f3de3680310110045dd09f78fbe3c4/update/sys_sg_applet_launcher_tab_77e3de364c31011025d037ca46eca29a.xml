@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Dashboard">33e3de365b310110314972d58605159b</applet_launcher>
+        <icon display_value="Chart Bar">d49c89a2b72200108223e126de11a9c4</icon>
+        <label>Dashboard</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:32</sys_created_on>
+        <sys_id>77e3de364c31011025d037ca46eca29a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_77e3de364c31011025d037ca46eca29a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:32</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

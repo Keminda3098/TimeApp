@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>text_14</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:22:52</sys_created_on>
+        <sys_id>f7e3de36da31011012343719c93e748d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_14</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_f7e3de36da31011012343719c93e748d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:22:52</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="Time Off Template">7be3de360c31011099e482792418188d</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

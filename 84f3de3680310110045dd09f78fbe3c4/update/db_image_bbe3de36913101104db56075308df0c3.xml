@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>1280</height>
+        <image>7be3de364b310110cd273663e3beaec3</image>
+        <name>x_160096_time_app.green_check_trans.jpg</name>
+        <size_bytes>123445</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:41</sys_created_on>
+        <sys_id>bbe3de36913101104db56075308df0c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_160096_time_app.green_check_trans.jpg</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>db_image_bbe3de36913101104db56075308df0c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:41</sys_updated_on>
+        <thumbnail/>
+        <width>1280</width>
+    </db_image>
+</record_update>

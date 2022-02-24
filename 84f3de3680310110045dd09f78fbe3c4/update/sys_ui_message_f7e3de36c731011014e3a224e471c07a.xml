@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Time Off Workspace</application>
+        <code/>
+        <commented_message/>
+        <key>approvals by status</key>
+        <language>x_snc_time_off_r_0.es</language>
+        <message>aprobaciones por estado</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:02</sys_created_on>
+        <sys_id>f7e3de36c731011014e3a224e471c07a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approvals by status</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_ui_message_f7e3de36c731011014e3a224e471c07a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:02</sys_updated_on>
+    </sys_ui_message>
+</record_update>

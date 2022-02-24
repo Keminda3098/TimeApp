@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests workspace Config Config">f3e3de365c310110f96a6e0ee418e9bf</app_config>
+        <description/>
+        <fields>userGivenTable,table,label,parentRecordSysId,parentFieldName,referencedFieldName,extensionPoint,view,columns,hideSelectAll,type,relatedListName</fields>
+        <icon/>
+        <name>DA Modal Multi-Record Associator</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">f3e3de36173101105494fb07b3d7ab71</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>mra</route_type>
+        <screen_type display_value="DA Modal Multi-Record Associator">77e3de3698310110eea16da4bfa1af6f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:31</sys_created_on>
+        <sys_id>3be3de361431011088d150aa1e2f316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DA Modal Multi-Record Associator</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_ux_app_route_3be3de361431011088d150aa1e2f316f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:31</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3be3de361431011088d150aa1e2f316f"/>
+</record_update>

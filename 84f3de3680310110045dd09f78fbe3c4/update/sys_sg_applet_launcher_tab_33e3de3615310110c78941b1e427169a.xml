@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Time Off">f3e3de36763101105ba6d7a63389ee9b</applet_launcher>
+        <icon display_value="My Requests Icon">bbe3de36183101103e1268e7b7f76b9a</icon>
+        <label>Time Off</label>
+        <roles>x_160096_time_app.employee,x_160096_time_app.admin,x_160096_time_app.manager</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:32</sys_created_on>
+        <sys_id>33e3de3615310110c78941b1e427169a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_33e3de3615310110c78941b1e427169a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:32</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

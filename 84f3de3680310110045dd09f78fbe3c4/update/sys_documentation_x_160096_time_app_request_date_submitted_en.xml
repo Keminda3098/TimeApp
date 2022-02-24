@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="date_submitted" label="Date last submitted" language="en" table="x_160096_time_app_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_submitted</element>
+            <help/>
+            <hint/>
+            <label>Date last submitted</label>
+            <language>en</language>
+            <name>x_160096_time_app_request</name>
+            <plural>Date last submitted</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>50f312762f3101106cc4f7ecf699b620</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date last submitted</sys_name>
+            <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+            <sys_update_name>sys_documentation_x_160096_time_app_request_date_submitted_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-02-24 19:23:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

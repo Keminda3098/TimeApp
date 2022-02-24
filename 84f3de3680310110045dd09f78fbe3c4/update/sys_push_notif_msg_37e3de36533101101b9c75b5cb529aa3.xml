@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>Your time off request has been approved.</message_string>
+        <name>Request Approved Mobile</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content display_value="Test">77e3de36b83101106a5901094d0e47a3</push_message_content>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:29</sys_created_on>
+        <sys_id>37e3de36533101101b9c75b5cb529aa3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Approved Mobile</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_push_notif_msg_37e3de36533101101b9c75b5cb529aa3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:29</sys_updated_on>
+        <table>x_160096_time_app_request</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>

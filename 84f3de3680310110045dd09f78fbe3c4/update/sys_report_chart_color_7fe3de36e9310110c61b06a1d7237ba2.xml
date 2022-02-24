@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color">
+    <sys_report_chart_color action="INSERT_OR_UPDATE">
+        <color>#008000</color>
+        <color_name display_value="Vivid Blue">bbe3de36d9310110ed9220cee4b200bc</color_name>
+        <display>background-color:#01A8F7</display>
+        <element>status</element>
+        <name>x_160096_time_app_request</name>
+        <sys_class_name>sys_report_chart_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:28</sys_created_on>
+        <sys_id>7fe3de36e9310110c61b06a1d7237ba2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_160096_time_app_request</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_report_chart_color_7fe3de36e9310110c61b06a1d7237ba2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:28</sys_updated_on>
+        <value>approved</value>
+    </sys_report_chart_color>
+</record_update>

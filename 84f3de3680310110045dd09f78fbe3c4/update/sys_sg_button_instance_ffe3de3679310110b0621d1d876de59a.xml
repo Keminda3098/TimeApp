@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create time request">fbe3de36f8310110abd4f2c47322cb9b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">ffe3de36d33101105e00e6fa6add1598</icon>
+        <label>Request time off</label>
+        <location>quick_action</location>
+        <name>Request time off</name>
+        <order/>
+        <parent>f3e3de36763101105ba6d7a63389ee9b</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:26</sys_created_on>
+        <sys_id>ffe3de3679310110b0621d1d876de59a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request time off</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ffe3de3679310110b0621d1d876de59a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:26</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ffe3de3679310110b0621d1d876de59a"/>
+</record_update>

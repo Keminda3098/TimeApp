@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_160096_time_app_request">x_160096_time_app_request</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PTO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:22:47</sys_created_on>
+        <sys_id>73e3de360131011049f210765e3c73a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PTO</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_number_73e3de360131011049f210765e3c73a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:22:47</sys_updated_on>
+    </sys_number>
+</record_update>

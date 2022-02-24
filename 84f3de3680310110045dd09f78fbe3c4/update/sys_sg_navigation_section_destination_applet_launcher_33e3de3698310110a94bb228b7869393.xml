@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_applet_launcher">
+    <sys_sg_navigation_section_destination_applet_launcher action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Time Off">f3e3de36763101105ba6d7a63389ee9b</applet_launcher>
+        <background_color/>
+        <foreground_color/>
+        <icon display_value="Assets icon">0308385b1c003300964f3fc617b23a2e</icon>
+        <image/>
+        <name>Nav section</name>
+        <sys_class_name>sys_sg_navigation_section_destination_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:28</sys_created_on>
+        <sys_id>33e3de3698310110a94bb228b7869393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nav section</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_applet_launcher_33e3de3698310110a94bb228b7869393</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:28</sys_updated_on>
+    </sys_sg_navigation_section_destination_applet_launcher>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="List">bfe3de36fb3101106ee63b8d92aefa6c</macroponent>
+        <name>DeclineModal</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[
+
+function handler({
+        api,
+        event,
+        imports,
+        helpers
+    }) {
+    
+    const { name, payload: { route, fields, params, size = 'md' }} = event;
+    if (name === 'LIST#CLOSE_MODAL')
+        helpers.modal.close('custom_1');
+    
+    else if (name === 'LIST#OPEN_MODAL') {
+        if (!route)
+            return;
+        
+        api.setState('bare', true);
+        api.setState('displayOptions', { size: size });
+        api.setState('contents', {
+            route: route,
+            fields: fields,
+            params: params
+        });
+    }
+    
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:08</sys_created_on>
+        <sys_id>fbe3de366b310110282b1c4e82c99268</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DeclineModal</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_ux_client_script_fbe3de366b310110282b1c4e82c99268</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:08</sys_updated_on>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes>58d17acf0b531010a8b1c96237673a68</includes>
+        <macroponent display_value="Record">3be3de36f931011053166608ca05d176</macroponent>
+        <name>previewRecordRouteMapping</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api,
+    helpers,
+    event,
+    imports
+}) {
+    // Bypass dynamic routing for non "record" pages
+    if (event.payload.route && event.payload.route !== 'record') {
+        api.emit('NAV_ITEM_SELECTED', event.payload);
+        return;
+    }
+
+    const {
+        routeMapping,
+        buildDefaultRoutePayload
+    } = imports["global.recordRoutesMapping"]();
+
+    var route = 'record';
+    var targetRoute = 'current';
+    const domainId = api.state.domainId;
+    const defaultRoutePayload = buildDefaultRoutePayload(route, targetRoute, event, domainId);
+
+    const routeMap = api.data.dynamic_routing_record.routeMap;
+    const payload = routeMapping(routeMap, defaultRoutePayload, event, domainId);
+       
+    const {
+        emit
+    } = api;
+    emit('NAV_ITEM_SELECTED', payload);
+}
+
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-24 19:23:36</sys_created_on>
+        <sys_id>bfe3de367f310110dba3579e619e1a67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>previewRecordRouteMapping</sys_name>
+        <sys_package display_value="Time App" source="x_160096_time_app">84f3de3680310110045dd09f78fbe3c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time App">84f3de3680310110045dd09f78fbe3c4</sys_scope>
+        <sys_update_name>sys_ux_client_script_bfe3de367f310110dba3579e619e1a67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-24 19:23:36</sys_updated_on>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>
